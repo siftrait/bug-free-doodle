@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+}
+.contenedor{
+background-color: brown;
+height: auto;
+
+
+display: flex;
+justify-content: center;
+}
+.desarrollo{
+    background-color: blue;
+    height: auto;
+}
